@@ -10,7 +10,7 @@
 - [2025/10] **[NEXUS: Network Exploration for eXploiting Unsafe Sequences in Multi-Turn LLM Jailbreaks](https://arxiv.org/abs/2510.03417)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Proactive defense against LLM Jailbreak](https://arxiv.org/abs/2510.05052)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Dynamic Target Attack](https://arxiv.org/abs/2510.02422)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
-- [2025/10] **[Attack via Overfitting: 10-shot Benign Fine-tuning to Jailbreak LLMs](https://arxiv.org/abs/2510.02833)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/10] **[Attack via Overfitting: 10-shot Benign Fine-tuning to Jailbreak LLMs](https://arxiv.org/abs/2510.02833)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/ZHIXINXIE/tenBenign) ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Untargeted Jailbreak Attack](https://arxiv.org/abs/2510.02999)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Jailbreaking LLMs via Semantically Relevant Nested Scenarios with Targeted Toxic Knowledge ](https://arxiv.org/abs/2510.01223)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Fine-Tuning Jailbreaks under Highly Constrained Black-Box Settings: A Three-Pronged Approach](https://arxiv.org/abs/2510.01342)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
